@@ -1,0 +1,43 @@
+Starting SpringbootWechatApplication on 192.168.0.106 with PID 12555 (/Users/wb/Desktop/springboot-wechat/target/classes started by wb in /Users/wb/Desktop/springboot-wechat)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1785 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started SpringbootWechatApplication in 3.565 seconds (JVM running for 4.42)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting SpringbootWechatApplicationTests on 192.168.0.106 with PID 12684 (started by wb in /Users/wb/Desktop/springboot-wechat)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started SpringbootWechatApplicationTests in 5.797 seconds (JVM running for 8.393)
+ss
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting SpringbootWechatApplicationTests on 192.168.0.106 with PID 12687 (started by wb in /Users/wb/Desktop/springboot-wechat)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started SpringbootWechatApplicationTests in 8.097 seconds (JVM running for 10.816)
+ss
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting SpringbootWechatApplicationTests on 192.168.0.106 with PID 12692 (started by wb in /Users/wb/Desktop/springboot-wechat)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started SpringbootWechatApplicationTests in 5.165 seconds (JVM running for 7.419)
+ss
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting SpringbootWechatApplication on 192.168.0.106 with PID 12696 (/Users/wb/Desktop/springboot-wechat/target/classes started by wb in /Users/wb/Desktop/springboot-wechat)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2457 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started SpringbootWechatApplication in 3.876 seconds (JVM running for 5.121)
