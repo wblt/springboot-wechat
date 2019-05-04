@@ -9,5 +9,4 @@ public class SpringbootWechatApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootWechatApplication.class, args);
     }
-
 }

@@ -41,3 +41,4 @@ Initializing ExecutorService 'applicationTaskExecutor'
 Starting ProtocolHandler ["http-nio-8080"]
 Tomcat started on port(s): 8080 (http) with context path ''
 Started SpringbootWechatApplication in 3.876 seconds (JVM running for 5.121)
+Shutting down ExecutorService 'applicationTaskExecutor'
